@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MyGym.Infrastructure
-build_property.ProjectDir = C:\Users\Ülvi\Desktop\MyGym\Infrastructure\MyGym.Infrastructure\
+build_property.ProjectDir = C:\Users\Ülvi\Desktop\MyGymApp\MyGym\Infrastructure\MyGym.Infrastructure\

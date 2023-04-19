@@ -1,0 +1,15 @@
+C:\Users\Ülvi\Desktop\MyGymApp\MyGym\Core\MyGym.Application\bin\Debug\net6.0\MyGym.Application.deps.json
+C:\Users\Ülvi\Desktop\MyGymApp\MyGym\Core\MyGym.Application\bin\Debug\net6.0\MyGym.Application.dll
+C:\Users\Ülvi\Desktop\MyGymApp\MyGym\Core\MyGym.Application\bin\Debug\net6.0\MyGym.Application.pdb
+C:\Users\Ülvi\Desktop\MyGymApp\MyGym\Core\MyGym.Application\bin\Debug\net6.0\MyGym.Domain.dll
+C:\Users\Ülvi\Desktop\MyGymApp\MyGym\Core\MyGym.Application\bin\Debug\net6.0\MyGym.Domain.pdb
+C:\Users\Ülvi\Desktop\MyGymApp\MyGym\Core\MyGym.Application\obj\Debug\net6.0\MyGym.Application.csproj.AssemblyReference.cache
+C:\Users\Ülvi\Desktop\MyGymApp\MyGym\Core\MyGym.Application\obj\Debug\net6.0\MyGym.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ülvi\Desktop\MyGymApp\MyGym\Core\MyGym.Application\obj\Debug\net6.0\MyGym.Application.AssemblyInfoInputs.cache
+C:\Users\Ülvi\Desktop\MyGymApp\MyGym\Core\MyGym.Application\obj\Debug\net6.0\MyGym.Application.AssemblyInfo.cs
+C:\Users\Ülvi\Desktop\MyGymApp\MyGym\Core\MyGym.Application\obj\Debug\net6.0\MyGym.Application.csproj.CoreCompileInputs.cache
+C:\Users\Ülvi\Desktop\MyGymApp\MyGym\Core\MyGym.Application\obj\Debug\net6.0\MyGym.Application.csproj.CopyComplete
+C:\Users\Ülvi\Desktop\MyGymApp\MyGym\Core\MyGym.Application\obj\Debug\net6.0\MyGym.Application.dll
+C:\Users\Ülvi\Desktop\MyGymApp\MyGym\Core\MyGym.Application\obj\Debug\net6.0\refint\MyGym.Application.dll
+C:\Users\Ülvi\Desktop\MyGymApp\MyGym\Core\MyGym.Application\obj\Debug\net6.0\MyGym.Application.pdb
+C:\Users\Ülvi\Desktop\MyGymApp\MyGym\Core\MyGym.Application\obj\Debug\net6.0\ref\MyGym.Application.dll

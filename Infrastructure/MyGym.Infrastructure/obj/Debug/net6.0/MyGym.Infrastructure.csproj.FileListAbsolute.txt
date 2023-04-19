@@ -1,0 +1,17 @@
+C:\Users\Ülvi\Desktop\MyGymApp\MyGym\Infrastructure\MyGym.Infrastructure\bin\Debug\net6.0\MyGym.Infrastructure.deps.json
+C:\Users\Ülvi\Desktop\MyGymApp\MyGym\Infrastructure\MyGym.Infrastructure\bin\Debug\net6.0\MyGym.Infrastructure.dll
+C:\Users\Ülvi\Desktop\MyGymApp\MyGym\Infrastructure\MyGym.Infrastructure\bin\Debug\net6.0\MyGym.Infrastructure.pdb
+C:\Users\Ülvi\Desktop\MyGymApp\MyGym\Infrastructure\MyGym.Infrastructure\bin\Debug\net6.0\MyGym.Application.dll
+C:\Users\Ülvi\Desktop\MyGymApp\MyGym\Infrastructure\MyGym.Infrastructure\bin\Debug\net6.0\MyGym.Domain.dll
+C:\Users\Ülvi\Desktop\MyGymApp\MyGym\Infrastructure\MyGym.Infrastructure\bin\Debug\net6.0\MyGym.Application.pdb
+C:\Users\Ülvi\Desktop\MyGymApp\MyGym\Infrastructure\MyGym.Infrastructure\bin\Debug\net6.0\MyGym.Domain.pdb
+C:\Users\Ülvi\Desktop\MyGymApp\MyGym\Infrastructure\MyGym.Infrastructure\obj\Debug\net6.0\MyGym.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Ülvi\Desktop\MyGymApp\MyGym\Infrastructure\MyGym.Infrastructure\obj\Debug\net6.0\MyGym.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ülvi\Desktop\MyGymApp\MyGym\Infrastructure\MyGym.Infrastructure\obj\Debug\net6.0\MyGym.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Ülvi\Desktop\MyGymApp\MyGym\Infrastructure\MyGym.Infrastructure\obj\Debug\net6.0\MyGym.Infrastructure.AssemblyInfo.cs
+C:\Users\Ülvi\Desktop\MyGymApp\MyGym\Infrastructure\MyGym.Infrastructure\obj\Debug\net6.0\MyGym.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Ülvi\Desktop\MyGymApp\MyGym\Infrastructure\MyGym.Infrastructure\obj\Debug\net6.0\MyGym.Infrastructure.csproj.CopyComplete
+C:\Users\Ülvi\Desktop\MyGymApp\MyGym\Infrastructure\MyGym.Infrastructure\obj\Debug\net6.0\MyGym.Infrastructure.dll
+C:\Users\Ülvi\Desktop\MyGymApp\MyGym\Infrastructure\MyGym.Infrastructure\obj\Debug\net6.0\refint\MyGym.Infrastructure.dll
+C:\Users\Ülvi\Desktop\MyGymApp\MyGym\Infrastructure\MyGym.Infrastructure\obj\Debug\net6.0\MyGym.Infrastructure.pdb
+C:\Users\Ülvi\Desktop\MyGymApp\MyGym\Infrastructure\MyGym.Infrastructure\obj\Debug\net6.0\ref\MyGym.Infrastructure.dll

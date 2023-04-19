@@ -1,0 +1,12 @@
+C:\Users\Ülvi\Desktop\MyGymApp\MyGym\Core\MyGym.Domain\bin\Debug\net6.0\MyGym.Domain.deps.json
+C:\Users\Ülvi\Desktop\MyGymApp\MyGym\Core\MyGym.Domain\bin\Debug\net6.0\MyGym.Domain.dll
+C:\Users\Ülvi\Desktop\MyGymApp\MyGym\Core\MyGym.Domain\bin\Debug\net6.0\MyGym.Domain.pdb
+C:\Users\Ülvi\Desktop\MyGymApp\MyGym\Core\MyGym.Domain\obj\Debug\net6.0\MyGym.Domain.csproj.AssemblyReference.cache
+C:\Users\Ülvi\Desktop\MyGymApp\MyGym\Core\MyGym.Domain\obj\Debug\net6.0\MyGym.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ülvi\Desktop\MyGymApp\MyGym\Core\MyGym.Domain\obj\Debug\net6.0\MyGym.Domain.AssemblyInfoInputs.cache
+C:\Users\Ülvi\Desktop\MyGymApp\MyGym\Core\MyGym.Domain\obj\Debug\net6.0\MyGym.Domain.AssemblyInfo.cs
+C:\Users\Ülvi\Desktop\MyGymApp\MyGym\Core\MyGym.Domain\obj\Debug\net6.0\MyGym.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ülvi\Desktop\MyGymApp\MyGym\Core\MyGym.Domain\obj\Debug\net6.0\MyGym.Domain.dll
+C:\Users\Ülvi\Desktop\MyGymApp\MyGym\Core\MyGym.Domain\obj\Debug\net6.0\refint\MyGym.Domain.dll
+C:\Users\Ülvi\Desktop\MyGymApp\MyGym\Core\MyGym.Domain\obj\Debug\net6.0\MyGym.Domain.pdb
+C:\Users\Ülvi\Desktop\MyGymApp\MyGym\Core\MyGym.Domain\obj\Debug\net6.0\ref\MyGym.Domain.dll

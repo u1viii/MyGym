@@ -1,0 +1,1 @@
+﻿global using MyGym.Domain.Enities.Base;

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ülvi\\Desktop\\MyGym\\Core\\MyGym.Domain\\MyGym.Domain.csproj": {}
+    "C:\\Users\\Ülvi\\Desktop\\MyGymApp\\MyGym\\Core\\MyGym.Domain\\MyGym.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ülvi\\Desktop\\MyGym\\Core\\MyGym.Domain\\MyGym.Domain.csproj": {
+    "C:\\Users\\Ülvi\\Desktop\\MyGymApp\\MyGym\\Core\\MyGym.Domain\\MyGym.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ülvi\\Desktop\\MyGym\\Core\\MyGym.Domain\\MyGym.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Ülvi\\Desktop\\MyGymApp\\MyGym\\Core\\MyGym.Domain\\MyGym.Domain.csproj",
         "projectName": "MyGym.Domain",
-        "projectPath": "C:\\Users\\Ülvi\\Desktop\\MyGym\\Core\\MyGym.Domain\\MyGym.Domain.csproj",
+        "projectPath": "C:\\Users\\Ülvi\\Desktop\\MyGymApp\\MyGym\\Core\\MyGym.Domain\\MyGym.Domain.csproj",
         "packagesPath": "C:\\Users\\Ülvi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ülvi\\Desktop\\MyGym\\Core\\MyGym.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Ülvi\\Desktop\\MyGymApp\\MyGym\\Core\\MyGym.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ülvi\\AppData\\Roaming\\NuGet\\NuGet.Config",

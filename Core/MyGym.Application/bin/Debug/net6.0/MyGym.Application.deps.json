@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MyGym.Application/1.0.0": {
+        "dependencies": {
+          "MyGym.Domain": "1.0.0"
+        },
+        "runtime": {
+          "MyGym.Application.dll": {}
+        }
+      },
+      "MyGym.Domain/1.0.0": {
+        "runtime": {
+          "MyGym.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyGym.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyGym.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

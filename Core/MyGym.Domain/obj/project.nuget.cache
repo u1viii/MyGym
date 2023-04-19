@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GJBgyBDthmOKI0ZsLwk32Ofp98+0/8QV6mbzwiSDTZROhrw+tyx12FUPKOPS0KBQFCXwhGM34pNzO+cXZoRmDg==",
+  "dgSpecHash": "/IbUY4klFq1CNLb8/g5akRRRkcRtJZG93YpydbMIodCEaw2/OiR1U7KP5LpykyuFRvNSBqNlbpY1k4J1AkFG4g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ülvi\\Desktop\\MyGym\\Core\\MyGym.Domain\\MyGym.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Ülvi\\Desktop\\MyGymApp\\MyGym\\Core\\MyGym.Domain\\MyGym.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

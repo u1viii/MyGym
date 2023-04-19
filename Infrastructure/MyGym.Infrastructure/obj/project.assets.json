@@ -1,11 +1,48 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "MyGym.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "MyGym.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MyGym.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MyGym.Application.dll": {}
+        }
+      },
+      "MyGym.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/MyGym.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MyGym.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "MyGym.Application/1.0.0": {
+      "type": "project",
+      "path": "../../Core/MyGym.Application/MyGym.Application.csproj",
+      "msbuildProject": "../../Core/MyGym.Application/MyGym.Application.csproj"
+    },
+    "MyGym.Domain/1.0.0": {
+      "type": "project",
+      "path": "../../Core/MyGym.Domain/MyGym.Domain.csproj",
+      "msbuildProject": "../../Core/MyGym.Domain/MyGym.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "MyGym.Application >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Ülvi\\.nuget\\packages\\": {}
@@ -13,11 +50,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ülvi\\Desktop\\MyGym\\Infrastructure\\MyGym.Infrastructure\\MyGym.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\Ülvi\\Desktop\\MyGymApp\\MyGym\\Infrastructure\\MyGym.Infrastructure\\MyGym.Infrastructure.csproj",
       "projectName": "MyGym.Infrastructure",
-      "projectPath": "C:\\Users\\Ülvi\\Desktop\\MyGym\\Infrastructure\\MyGym.Infrastructure\\MyGym.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\Ülvi\\Desktop\\MyGymApp\\MyGym\\Infrastructure\\MyGym.Infrastructure\\MyGym.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Ülvi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ülvi\\Desktop\\MyGym\\Infrastructure\\MyGym.Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\Ülvi\\Desktop\\MyGymApp\\MyGym\\Infrastructure\\MyGym.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ülvi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -33,7 +70,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Ülvi\\Desktop\\MyGymApp\\MyGym\\Core\\MyGym.Application\\MyGym.Application.csproj": {
+              "projectPath": "C:\\Users\\Ülvi\\Desktop\\MyGymApp\\MyGym\\Core\\MyGym.Application\\MyGym.Application.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
