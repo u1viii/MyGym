@@ -15,10 +15,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\..\Infrastructure\MyGym.Infrastructure\MyGym.Infrastructure.csproj" />
     <ProjectReference Include="..\..\Infrastructure\MyGym.Persistance\MyGym.Persistance.csproj" />
   </ItemGroup>

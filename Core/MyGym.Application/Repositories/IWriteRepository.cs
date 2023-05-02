@@ -8,7 +8,7 @@ namespace MyGym.Application.Repositories
         Task<bool> AddAsync(List<T> model);
         bool Update(T model);
         bool Remove(T model);
-        bool Remove(int id);
+        Task<bool> RemoveAsync(int id);
         Task SaveChangesAsync();
     }
 }

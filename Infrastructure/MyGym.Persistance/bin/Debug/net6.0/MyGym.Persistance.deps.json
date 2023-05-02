@@ -314,6 +314,7 @@
       },
       "MyGym.Application/1.0.0": {
         "dependencies": {
+          "Microsoft.EntityFrameworkCore": "6.0.16",
           "MyGym.Domain": "1.0.0"
         },
         "runtime": {

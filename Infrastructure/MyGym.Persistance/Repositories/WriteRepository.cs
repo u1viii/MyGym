@@ -1,4 +1,6 @@
-﻿using MyGym.Application.Repositories;
+﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.ChangeTracking;
+using MyGym.Application.Repositories;
 using MyGym.Domain.Enities.Base;
 using MyGym.Persistance.Contexts;
 
@@ -6,38 +8,45 @@ namespace MyGym.Persistance.Repositories
 {
     public class WriteRepository<T> : Repository<T>, IWriteRepository<T> where T : BaseEntity
     {
+        AppDbContext _context { get;  }
         public WriteRepository(AppDbContext context) : base(context)
         {
+            _context = context;
         }
 
-        public Task<bool> AddAsync(T model)
+        public async Task<bool> AddAsync(T model)
         {
-            throw new NotImplementedException();
+            EntityEntry<T> entity = await Table.AddAsync(model);
+            return entity.State == EntityState.Added;
         }
 
-        public Task<bool> AddAsync(List<T> model)
+        public async Task<bool> AddAsync(List<T> model)
         {
-            throw new NotImplementedException();
+            await Table.AddRangeAsync(model);
+            return true;
         }
 
         public bool Remove(T model)
         {
-            throw new NotImplementedException();
+            EntityEntry<T> entityEntry = Table.Remove(model);
+            return entityEntry.State == EntityState.Deleted;
         }
 
-        public bool Remove(int id)
+        public async Task<bool> RemoveAsync(int id)
         {
-            throw new NotImplementedException();
+            T data = await Table.FindAsync(id);
+            return Remove(data);
         }
 
-        public Task SaveChangesAsync()
+        public async Task SaveChangesAsync()
         {
-            throw new NotImplementedException();
+            await _context.SaveChangesAsync();
         }
 
         public bool Update(T model)
         {
-            throw new NotImplementedException();
+            EntityEntry<T> entry = Table.Update(model);
+            return entry.State == EntityState.Modified;
         }
     }
 }
