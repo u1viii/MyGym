@@ -21,7 +21,8 @@ namespace MyGym.Persistance.Contexts
                 _ = entity.State switch
                 {
                     EntityState.Added => entity.Entity.CreatedDate = DateTime.UtcNow,
-                    EntityState.Modified => entity.Entity.ModifiedDate = DateTime.UtcNow
+                    EntityState.Modified => entity.Entity.ModifiedDate = DateTime.UtcNow,
+                    _ => DateTime.UtcNow
                 };
                 
             }
