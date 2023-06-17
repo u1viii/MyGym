@@ -1,3 +1,5 @@
+using FluentValidation.AspNetCore;
+using MyGym.Application.Validators.Sports;
 using MyGym.Persistance;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -11,7 +13,8 @@ builder.Services.AddCors(conf =>
 });
 builder.Services.AddPersistanceService();
 
-builder.Services.AddControllers();
+builder.Services.AddControllers().AddFluentValidation(conf => conf.RegisterValidatorsFromAssemblyContaining<CreateSportValidator>())
+    .ConfigureApiBehaviorOptions(conf => conf.SuppressModelStateInvalidFilter = true);
 
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();

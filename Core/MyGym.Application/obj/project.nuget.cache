@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "XNYt/4DR+Vf8XC+P8hhoB/q99u5pK01Pd/vJbx6vPfJX8TOJ5k8mMnkAh0Q4Ycn/6CE9epHrzAHbOIp9/MN7Sg==",
+  "dgSpecHash": "Rtya2QLycW5Ti4f5Oaa8c4EeYeXj53bznDjTjpCedArkeTN9UINylCCsbmH7R5AjUMT3jFUTl4XQSN0NsZr6LA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Ülvi\\Desktop\\MyGymApp\\MyGym\\Core\\MyGym.Application\\MyGym.Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Ülvi\\.nuget\\packages\\fluentvalidation\\11.5.2\\fluentvalidation.11.5.2.nupkg.sha512",
+    "C:\\Users\\Ülvi\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\Ülvi\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.2\\fluentvalidation.dependencyinjectionextensions.11.5.2.nupkg.sha512",
     "C:\\Users\\Ülvi\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.16\\microsoft.entityframeworkcore.6.0.16.nupkg.sha512",
     "C:\\Users\\Ülvi\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.16\\microsoft.entityframeworkcore.abstractions.6.0.16.nupkg.sha512",
     "C:\\Users\\Ülvi\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.16\\microsoft.entityframeworkcore.analyzers.6.0.16.nupkg.sha512",

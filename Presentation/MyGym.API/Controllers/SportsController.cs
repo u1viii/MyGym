@@ -19,6 +19,10 @@ namespace MyGym.API.Controllers
         [HttpPost]
         public async Task<IActionResult> Post(SportCreateDTO sportCreate)
         {
+            if (!ModelState.IsValid)
+            {
+                return BadRequest();
+            }
             await _sportWrite.AddAsync(new Sport { Name = sportCreate.Name });
             await _sportWrite.SaveChangesAsync();
             return Ok();
